@@ -8,9 +8,9 @@ const validLicenses = {
     '$2a$17$Hi.R/hrbrk.QGWZTqsBskOiPGNN8/bhW25Q5kM0py2gviOSbnZqhW',
     // Tambahkan lisensi valid untuk pdf-combine
   ],
-  'pdf-to-word': [
-    '$2a$17$Hi.R/hrbrk.QGWZTqsBskOiPGNN8/bhW25Q5kM0py2gviOSbnZqhW',
-    // Tambahkan lisensi valid untuk pdf-to-word
+  'satu-sehat': [
+    '$2a$17$Hi.R/hrbrk.QGWZTqsBskOiPGNN8/bhW25qweH0py2gviOSbnZqhW',
+    // Tambahkan lisensi valid untuk satu-sehat
   ]
   // Tambahkan jenis lisensi lainnya sesuai kebutuhan
 };
