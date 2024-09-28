@@ -11,8 +11,11 @@ const validLicenses = {
   'satu-sehat': [
     '$2a$17$Hi.R/hrbrk.QGWZTqsBskOiPGNN8/bhW25qweH0py2gviOSbnZqhW',
     // Tambahkan lisensi valid untuk satu-sehat
+  ],
+  'mesin-apm': [
+    '$2a$17$Hi.R/hrbrk.QGWZTqsBskOiPGNN8/bhW25qweH0py2gviBNosZqhW',
+    // Tambahkan lisensi valid untuk satu-sehat
   ]
-  // Tambahkan jenis lisensi lainnya sesuai kebutuhan
 };
 
 app.get('/api/validate', (req, res) => {
